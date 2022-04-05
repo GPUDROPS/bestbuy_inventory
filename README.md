@@ -33,3 +33,8 @@
 #### Open the unzipped `bestbuy_extension` folder and click `Select Folder`
 
    <img width="400" alt="image" src="https://user-images.githubusercontent.com/94853139/161853779-60ded4d2-741d-4bf6-8bc8-2c80c33aac30.png">
+   
+#### To open the interactive map, click on either buttons highlighted below
+
+   <img width="400" alt="image" src="https://user-images.githubusercontent.com/94853139/161867458-e7952e3b-3680-4f26-b079-1326d9e115b2.png">
+
